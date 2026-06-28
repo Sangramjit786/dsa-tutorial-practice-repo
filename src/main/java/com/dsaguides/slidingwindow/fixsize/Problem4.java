@@ -1,6 +1,4 @@
-package com.dsaguides.slidingwindow;
-
-import com.sun.tools.javac.Main;
+package com.dsaguides.slidingwindow.fixsize;
 
 import java.util.Arrays;
 import java.util.LinkedList;

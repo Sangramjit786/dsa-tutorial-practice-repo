@@ -1,4 +1,4 @@
-package com.dsaguides.slidingwindow;
+package com.dsaguides.slidingwindow.fixsize;
 
 import java.util.Arrays;
 
