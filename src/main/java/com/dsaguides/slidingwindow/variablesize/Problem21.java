@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+/*1852. Distinct Numbers in Each Subarray*/
+
 public class Problem21 {
 
     public int[] distinctNumbers(int[] nums, int k) {

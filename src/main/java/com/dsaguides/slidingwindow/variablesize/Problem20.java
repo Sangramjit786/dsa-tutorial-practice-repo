@@ -2,6 +2,8 @@ package com.dsaguides.slidingwindow.variablesize;
 
 import java.util.Arrays;
 
+/*1838. Frequency of the Most Frequent Element*/
+
 public class Problem20 {
 
     public int maxFrequency(int[] nums, int k) {

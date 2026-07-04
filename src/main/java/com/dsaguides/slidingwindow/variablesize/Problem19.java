@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
+/*1695. Maximum Erasure Value*/
+
 public class Problem19 {
 
     public int maximumUniqueSubarray(int[] nums) {
